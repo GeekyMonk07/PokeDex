@@ -1,6 +1,6 @@
-# pokemon
+# PokeDex
 
-A flutter pokedex app
+PokeDex App created using flutter
 
 ## Getting Started
 
